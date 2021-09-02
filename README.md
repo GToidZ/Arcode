@@ -15,6 +15,6 @@ After forking, you should...
 
 1. Clone your fork: `git clone https://github.com/your-username/Arcode.git`
 2. Create your branch for a new problem: `git checkout -b new-problem`
-3. Commit your changes: `git commit -am 'Added new problem'`
+3. Commit your changes: `git commit -am "Added new problem"`
 4. Push to the branch: `git push origin new-problem`
 5. Submit a new pull request.
